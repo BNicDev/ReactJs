@@ -1,0 +1,21 @@
+.gif{
+    border: 1px solid #eee;
+    border-radius:6px ;
+    color: #eee;
+    display:flex;
+    flex-direction: column;
+    text-decoration: none;
+    margin: 26px;
+    width: 100%;
+}
+.gif h4{
+    margin: 10px;
+}
+.gif img{
+    object-fit: contain;
+}
+
+i{
+    font-size: 40px;
+    color: #eee;
+}
