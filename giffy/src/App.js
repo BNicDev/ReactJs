@@ -1,5 +1,5 @@
 import React from 'react';
-import {Link, Route } from 'wouter';
+import {Route } from 'wouter';
 import './App.css';
 import Detail from './Pages/Detail';
 import Home from './Pages/Home';
